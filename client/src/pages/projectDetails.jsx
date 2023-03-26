@@ -182,7 +182,7 @@ const ProjectDetails =() => {
             </form>
           </div>
           <div className="flex-1">
-          <h4 className="font-epilogue font-semibold text-[18px] text-white uppercase">post proposals</h4>
+          
 
           
         </div>
