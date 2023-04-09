@@ -23,7 +23,7 @@ const DisplayProjects = ({ title, isLoading, projects }) => {
         {!isLoading && projects.length === 0 && (
           
           <p className="font-epilogue font-semibold text-[14px] leading-[30px] text-[#818183]">
-            You have not created any campigns yet
+          no projects yet!
           </p>
           
         )}
